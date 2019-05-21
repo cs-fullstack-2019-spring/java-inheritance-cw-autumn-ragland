@@ -58,3 +58,5 @@ class Router
 - insertItem: google.com is sent to insertItem. It now has the array ["http://www.google.com"].
 - seeItems: prints ["http://www.google.com"].
 - removeItem: "http://www.google.com" is sent to removeItem. It now has the array [].
+<hr>
+2 points.
